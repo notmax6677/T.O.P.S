@@ -13,18 +13,18 @@ My goal has been to learn from this so that in future projects where I may write
 
 Here is a quick but comprehensive guide to the usage of the physics simulation and how to interact with its environment, it can be a bit confusing at first, but I couldn't pass by the opportunity of creating the UI in the style that I enjoy using. Also I do admit that I could have improved upon the organization and presentation of the controls panels, but I hope you may forgive me for this haha
 
-### 1) Particle Creation
+### <i> 1) Particle Creation </i>
 
 To create a particle, you can simply right click with the mouse, and it will be instanced at the location of your cursor, as long as the cursor is within the boundaries of the box, which behaves as the "workspace". You may find the coordinates of your cursor within the box on the top right side of the window!
 
-### 2) The Gravity Pointer
+### <i> 2) The Gravity Pointer </i>
 
 By holding the left mouse button, you can generate a gravitational force separate from the vertical gravitational force already present, which emanates from your cursor, this can attract particles towards its position and is just generally fun to play around with lol
 
-### 3) Changing the Particle Sizes
+### <i> 3) Changing the Particle Sizes </i>
 
 You can change the set particle size - which represents the particle's radius - by simply turning your scroll wheel, there are maximum and minimum values for the particles to prevent some weird stuff from happening. All generated particles are always created with the currently set particle size. You may also notice that the crosshair-like cursor changes size with the currently set particle size values as a way of correlating the two, I thought it's pretty cool so yeah
 
-### LAST !!!!!!!!) Color-Coding Particles
+### <i> LAST !!!!!!!!) Color-Coding Particles </i>
 
 Well this one is simple, you can press C to toggle between the particles being colored or not, particles that are travelling at relatively high speeds appear to the red, lower speeds make them more blue-ish, static particles are always green and linked particles are always purple, it's really cool to be seeing all of the different colors on the workspace, but I understand that some may not like it, so I just added a feature to be able to toggle it around as you please!
