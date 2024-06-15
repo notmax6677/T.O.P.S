@@ -5,7 +5,7 @@ finish the todo list in the project first man !!!!
 
 INSERT EDITED GIF HERE
 
-Totally Operational Particle Simulation (or TOPS) is my first attempt at creating something similar to a physics engine/simulation, whilst utilizing [Verlet Integration](https://en.wikipedia.org/wiki/Verlet_integration). It isn't perfect, but I believe that it's a good introduction for me to gain a grasp at the mathematics at hand when programming physics related programs such as this. The program is built upon [LOVE2D](https://love2d.org) (specifically version 11.5, so I am not sure about its compatibility with future builds), so it only requires the LOVE interpreter to be run and otherwise is pretty much self contained without any other prerequisites.
+<ins><b>Totally Operational Particle Simulation</b></ins> (or TOPS) is my first attempt at creating something similar to a physics engine/simulation, whilst utilizing [Verlet Integration](https://en.wikipedia.org/wiki/Verlet_integration). It isn't perfect, but I believe that it's a good introduction for me to gain a grasp at the mathematics at hand when programming physics related programs such as this. The program is built upon [LOVE2D](https://love2d.org) (specifically version 11.5, so I am not sure about its compatibility with future builds), so it only requires the LOVE interpreter to be run and otherwise is pretty much self contained without any other prerequisites.
 
 My goal has been to learn from this so that in future projects where I may write similar functionality, I'll have a non-nullar foundation to begin with and can bring it to the next level of complexity and variation with more ease, and yeah thats all lol
 
