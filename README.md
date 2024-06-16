@@ -59,13 +59,13 @@ And a word of advice from myself who's spent countless hours testing this progra
 
 ### <i> 7. Clearing the Workspace </i>
 
-Well this is pretty self explanatory, isn't it? Pressing `BACKSPACE` will delete all current particles and links from the workplace, creating a new clean slate for you to use in the simulation space!
+Well this is pretty self explanatory, isn't it? Pressing `BACKSPACE` will delete all current particles and links from the workspace, creating a new clean slate for you to use in the simulation space!
 
 <i> (I didn't really create a demonstration for this one because I mean... it's kinda straightforward...) </i>
 
 ### <i> 8. Color-Coding Particles </i>
 
-Well this one is simple, you can press `C` to toggle between the particles being colored or not, particles that are travelling at relatively high speeds appear to the red, lower speeds make them more blue-ish, static particles are always green and linked particles are always purple, it's really cool to be seeing all of the different colors on the workspace, but I understand that some may not like it, so I just added a feature to be able to toggle it around as you please!
+Well this one is simple, you can press `C` to toggle between the particles being colored or not, particles that are travelling at relatively high speeds appear to the red, lower speeds make them more blue-ish, static particles are always green and linked particles are always purple, it's really cool to be seeing all of the different colors in the workspace, but I understand that some may not like it, so I just added a feature to be able to toggle it around as you like.
 
 <img src="gifs/8-color_coding_particles.gif" alt="Color Coding Particles Demonstration Gif" width="400"/>
 
